@@ -1,0 +1,22 @@
+astropy__astropy-13236 (claude) -> repro_steps=10, search_steps=42, tools={'cd': 22, 'find': 5, 'grep': 6, 'str_replace_editor': 19, 'submit': 2}
+astropy__astropy-14598 (claude) -> repro_steps=9, search_steps=42, tools={'cd': 22, 'find': 1, 'grep': 5, 'str_replace_editor': 29, 'submit': 2}
+django__django-11141 (claude) -> repro_steps=8, search_steps=53, tools={'cd': 34, 'find': 2, 'str_replace_editor': 31, 'submit': 2}
+django__django-11400 (claude) -> repro_steps=9, search_steps=44, tools={'cd': 24, 'find': 3, 'grep': 9, 'str_replace_editor': 21, 'submit': 2}
+django__django-13195 (claude) -> repro_steps=11, search_steps=45, tools={'cd': 30, 'find': 3, 'str_replace_editor': 27, 'submit': 2}
+django__django-13212 (claude) -> repro_steps=6, search_steps=34, tools={'cd': 25, 'str_replace_editor': 29, 'submit': 2}
+django__django-14034 (claude) -> repro_steps=6, search_steps=41, tools={'cd': 32, 'find': 1, 'grep': 1, 'str_replace_editor': 18, 'submit': 2}
+django__django-14315 (claude) -> repro_steps=9, search_steps=45, tools={'cd': 32, 'str_replace_editor': 28, 'submit': 2}
+django__django-14792 (claude) -> repro_steps=12, search_steps=55, tools={'cd': 35, 'find': 7, 'str_replace_editor': 34, 'submit': 2}
+django__django-15022 (claude) -> repro_steps=15, search_steps=66, tools={'cd': 36, 'find': 1, 'grep': 12, 'str_replace_editor': 54}
+django__django-15987 (claude) -> repro_steps=3, search_steps=48, tools={'cd': 34, 'str_replace_editor': 26, 'submit': 2}
+pydata__xarray-7229 (claude) -> repro_steps=8, search_steps=67, tools={'cd': 28, 'find': 2, 'grep': 12, 'str_replace_editor': 39, 'submit': 2}
+scikit-learn__scikit-learn-26194 (claude) -> repro_steps=4, search_steps=46, tools={'cd': 35, 'str_replace_editor': 30, 'submit': 2}
+sphinx-doc__sphinx-10614 (claude) -> repro_steps=7, search_steps=53, tools={'cat': 5, 'cd': 19, 'find': 6, 'grep': 10, 'rm': 2, 'str_replace_editor': 33, 'submit': 2}
+sphinx-doc__sphinx-9229 (claude) -> repro_steps=12, search_steps=76, tools={'cd': 53, 'str_replace_editor': 50}
+sympy__sympy-13852 (claude) -> repro_steps=3, search_steps=41, tools={'cd': 28, 'find': 2, 'str_replace_editor': 21, 'submit': 2}
+sympy__sympy-13877 (claude) -> repro_steps=2, search_steps=20, tools={'cd': 7, 'str_replace_editor': 16}
+  WARNING: search steps high (20/24)
+django__django-11815 (qwen) -> repro_steps=0, search_steps=5, tools={'find': 3, 'str_replace_editor': 2}
+django__django-13925 (qwen) -> repro_steps=1, search_steps=73, tools={'cd': 2, 'find': 1, 'str_replace_editor': 72}
+  WARNING: search steps high (73/76)
+scikit-learn__scikit-learn-14087 (qwen) -> repro_steps=1, search_steps=13, tools={'cd': 5, 'str_replace_editor': 13, 'submit': 1}
